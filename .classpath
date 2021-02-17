@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_162">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/javax.servlet-api-4.0.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-logging-1.2.1.1.jar/commons-logging-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/javax.servlet-3.0.jar/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4-bin/commons-fileupload-1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/jar_files/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/ojdbc6.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
